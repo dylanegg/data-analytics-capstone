@@ -24,6 +24,6 @@ Notebook references code discussed by Ken Jee in the following YouTube video: ht
 
 Excel file containing mean absolute error, root mean squared error, mean squared error, and R squared for each model in model_buidling.ipynb.
 
-## inear Regressoin R Squared Values.twbx
+## Linear Regressoin R Squared Values.twbx
 
 Visual analysis of R Squared values from Linear Regression models in Exploratory_Data_Analysis.ipynb
