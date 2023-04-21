@@ -27,3 +27,7 @@ Excel file containing mean absolute error, root mean squared error, mean squared
 ## inear Regressoin R Squared Values.twbx
 
 Visual analysis of R Squared values from Linear Regression models in Exploratory_Data_Analysis.ipynb
+
+## Social and Economic Effects on Infant Mortality Rate.pdf
+
+Full report on data science project covered in this repository.
